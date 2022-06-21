@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    background-color: hsl(212, 45%, 89%);
+    margin-top: 5rem;
+}
+
+h2 {
+    padding-top: 2rem;
+    width: 17rem;
+    margin: auto;
+}
+
+p {
+    color: hsl(220, 15%, 55%);
+    width: 18rem;
+    margin: auto;
+}
+
+.a {
+    background-color: white;
+    margin: auto;
+    width: 22rem;
+    height: 34rem;
+    border-radius: 5%;
+}
+
+.b {
+    margin-top: 1rem;
+    border-radius: 5%;
+}
+
+.d {
+    padding-top: 4rem;
+    font-size: 12px;
+}
